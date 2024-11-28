@@ -10,6 +10,6 @@ My name's Kuefo, I'm a 21 year old law major from California<br><br>I've been pr
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuefo/kuefo/refs/heads/output/github-snake-dark.svg"
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuefo/kuefo/refs/heads/output/github-snake.svg"
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuefo/kuefo/refs/heads/output/github-snake.svg"
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kuefo/kuefo/output/github-snake.svg
     </picture>
