@@ -1,5 +1,5 @@
 # 💫 About Me
-My name's Kuefo, I'm a 21 year old law major from California<br><br>I've been programming for around 7 years now, and I mainly code in my free time<br><br>I originally got into programming because I wanted to make a website, but then realized I could do a lot more<br><br>Nowadays, I mainly work on tools for my RGH, educational malware scripts, or jailbreaks<br><br> I also play a lot of video games, and stream on twitch <br><br>I hope to educate and inspire people through my work, and collaborate with more people in the future!<br><br>
+My name's Kuefo, I'm a 21 year old law major from California<br><br>I've been programming for around 7 years now, and I mainly code in my free time<br><br> I also love video games, and have been playing them for around 13 years<br><br>I originally got into programming because I wanted to make a website, but then realized I could do a lot more<br><br>Nowadays, I mainly work on tools for my RGH, educational malware scripts, or jailbreaks<br><br>I hope to educate and inspire people through my work, everything I post is for educational purposes only!<br><br>
 
 
 ## 🌐 Socials
