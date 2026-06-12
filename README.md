@@ -1,5 +1,5 @@
 # 💫 About Me
-👾 Based in the California Bay Area <br><br>🔨 Hobby fullstack dev and ethical hacker in my free time, specializing in C#, C, JavaScript, Python and Shell Scripts.<br><br>⚙️ I mainly work on tools for my RGH, educational malware / network hacking scripts, or jailbreaks.<br><br> 💬 The best place to contact me is Discord (@imne), add me on there if you have any further inquiries.<br><br>
+🔨 Hobby fullstack dev and ethical hacker in my free time, specializing in C#, C, JavaScript, Python and Shell Scripts.<br><br>⚙️ I mainly work on tools for my RGH, educational malware / network hacking scripts, or jailbreaks.<br><br> 💬 The best place to contact me is Discord (@imne), add me on there if you have any further inquiries.<br><br>
 
 
 
