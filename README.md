@@ -2,11 +2,6 @@
 🔨 Hobby fullstack dev and ethical hacker in my free time, specializing in C#, C, JavaScript, Python and Shell Scripts.<br><br>⚙️ I mainly work on tools for my RGH, educational malware / network hacking scripts, or jailbreaks.<br><br> 💬 The best place to contact me is Discord (@imne), add me on there if you have any further inquiries.<br><br>
 
 
-
-## 🌐 Socials
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jm6k) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kuefo) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kittenlounge)
-
-
 [![](https://visitcount.itsvg.in/api?id=kuefo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
